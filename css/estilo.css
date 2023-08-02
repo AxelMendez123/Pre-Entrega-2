@@ -1,0 +1,30 @@
+.fondoColor {
+    background-color: rgb(206, 26, 26);
+}
+
+.colorBlanco {
+    color: whitesmoke;
+}
+
+.colorNegro {
+    color: black;
+}
+
+.imgHamburguesa {
+    height: 510px;
+    object-fit: cover;
+}
+
+.elBoton {
+    background-color: red;
+    color: yellow;
+}
+
+.elBoton:hover {
+background-color: brown;
+color: orange;
+}
+
+.logo {
+    width: 80px;
+}
